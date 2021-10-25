@@ -1,0 +1,17 @@
+.mainChart{
+    width: 100%;
+}
+.defaultChart{
+   box-shadow: 5px 5px 15px #ddd,-5px -5px 15px #ddd
+}
+.parentimg{
+    height:200px;
+}
+.productImg{
+    width: 100%;
+    height: 100%;
+}
+.chart__cals{
+   box-shadow: 5px 5px 15px #ddd,-5px -5px 15px #ddd;
+   padding:5px
+}

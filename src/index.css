@@ -1,0 +1,21 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style:none;
+  text-decoration: none;
+}
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+.items__list{
+  margin-top:85px
+}
+
+
+@media (max-Width:768px) {
+    
+.items__list{
+  margin-top:125px
+}
+}
